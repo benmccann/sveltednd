@@ -7,6 +7,10 @@
 	"contributors": [
 		"sanju <work@sanju.sh>"
 	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/thisuxhq/sveltednd.git"
+	},
 	"license": "MIT",
 	"keywords": [
 		"svelte",
